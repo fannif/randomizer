@@ -6,11 +6,11 @@ For example, if you can't decide what to eat today, add the options and click "P
 
 ## Installation instructions
 
-This program requires npm to be installed.
-On Linux, you can install npm using the commands
-`apt update` and `apt install -y npm`.
+This program requires Nodejs and npm to be installed.
+On Linux, you can install these by using the commands
+`curl -sL https://deb.nodesource.com/setup_lts.x | bash -` and `apt install -y nodejs`.
 
-Once you have installed npm and downloaded this repository, you can run the program by going into the randomizer folder and first downloading the dependencies with `npm install`.
+Once you have installed Nodejs and npm and downloaded this repository, you can run the program by going into the randomizer folder and first downloading the dependencies with `npm install`.
 
 After this, the application can be started with `npm start`.
 
